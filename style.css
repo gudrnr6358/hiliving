@@ -1,0 +1,29 @@
+body {
+    background-color:whitesmoke;
+}
+.main {
+    text-align: center;
+}
+.square {
+    background-color: white;
+    margin-top: 10px;
+    display: inline-block;
+    border: 5px solid black;
+    border-radius: 10px;
+    width: 650px;
+    height: 570px;
+}
+.square
+.clock h1 {
+    color:black;
+    font-size: 40px;
+}
+.link {
+    margin-top: 50px;
+}
+.link a {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 35px;
+    text-decoration: none;
+    color:black ;
+}
