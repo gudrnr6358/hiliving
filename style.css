@@ -1,29 +1,34 @@
 body {
+    margin:0px;
     background-color:whitesmoke;
+}
+.logo {
+    margin-top: 1%;
+    margin-left: 5%;
 }
 .main {
     text-align: center;
 }
 .square {
     background-color: white;
-    margin-top: 10px;
     display: inline-block;
     border: 5px solid black;
     border-radius: 10px;
     width: 650px;
-    height: 570px;
+    height: 550px;
 }
-.square
 .clock h1 {
     color:black;
     font-size: 40px;
 }
-.link {
-    margin-top: 50px;
+#link {
+    margin-top: 30px;
 }
-.link a {
+#link a {
+    line-height: 1.3;
     font-family: 'Nanum Gothic', sans-serif;
     font-size: 35px;
     text-decoration: none;
+    text-align: left;
     color:black ;
 }
