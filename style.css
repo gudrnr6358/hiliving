@@ -16,8 +16,8 @@ body {
     display: inline-block;
     border: 5px solid black;
     border-radius: 10px;
-    width: 1000px;
-    height: 680px;
+    width: 950px;
+    height: 650px;
 }
 .clock h1 {
     color:black;
